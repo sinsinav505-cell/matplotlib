@@ -15,6 +15,8 @@ students = [50, 40, 60, 30]
 plt.xlabel('Courses')
 plt.ylabel('Students')
 
-plt.bar(courses,students,color = 'Red')
+colors = ['red', 'blue', 'green', 'orange']
+
+plt.bar(courses,students,color = colors)
 
 plt.show()
