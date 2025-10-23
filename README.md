@@ -1,19 +1,51 @@
-1.which year did earthquake hit the most?
- 2015 is the year in which earthquake hit the most.
- 
-2.which magnitude occurred the most?
-6.5
+🌍 Earthquake & Tsunami Analysis
 
-3.What percentage of total earthquakes resulted in tsunamis?
-37.5%
+This project explores global earthquake data to uncover trends, patterns, and the relationship between earthquakes and tsunamis. Visualizations and statistics provide insights for risk assessment and disaster preparedness.
 
-4..Calculate the average tsunamis per year?
-30% 
+🔹 Key Insights
 
-5.Compare tsunami vs non-tsunami earthquakes per year.
-What is the possibility of occuring tsunami after 2012?
-Chances are very high
+📅 Year with Most Earthquakes
 
-6.Create a scatter plot of depth vs magnitude, colored by tsunami occurrence.
-What is the average depth and average magnitude of earthquakes that caused tsunamis?
-Earthquakes that caused tsunamis generally have higher magnitudes and occur at shallower depths, whereas non-tsunami earthquakes are more spread across all magnitudes and depths.
+2015 recorded the highest number of earthquakes globally.
+
+📏 Most Frequent Magnitude
+
+Magnitude 6.5 was the most common.
+
+🌊 Earthquakes Resulting in Tsunamis
+
+37.5% of total earthquakes led to tsunamis.
+
+📊 Average Tsunamis per Year
+
+On average, 30% of yearly earthquakes caused tsunamis.
+
+⚡ Tsunami vs Non-Tsunami Earthquakes (Post-2012)
+
+After 2012, the likelihood of an earthquake triggering a tsunami is very high.
+
+📉 Depth vs Magnitude Analysis
+
+Scatter Plot Observations:
+
+Earthquakes causing tsunamis: higher magnitudes, shallower depths.
+
+Non-tsunami earthquakes: widely spread across various magnitudes and depths.
+
+📈 Visualization
+
+Depth vs Magnitude Scatter Plot (colored by tsunami occurrence)
+
+🔴 Red points → Earthquakes causing tsunamis
+
+🔵 Blue points → Non-tsunami earthquakes
+
+📝 Summary
+
+Higher magnitude and shallow-depth earthquakes are more likely to generate tsunamis.
+
+The year 2015 had peak earthquake activity.
+
+Tsunami probability has increased significantly since 2012.
+
+This analysis provides valuable insights for disaster management and earthquake preparedness planning.
